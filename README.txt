@@ -1,3 +1,9 @@
+大部分模板来自HTML5 UP，该页面由220747班几位同学协助完成。演示效果：https://irreplacel.github.io/Me/
+用于主我们班级的主题团日活动。
+
+
+
+
 Editorial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
